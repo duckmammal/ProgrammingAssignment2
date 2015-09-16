@@ -1,6 +1,6 @@
-## These two function work together to store the value of the
-## inverse of a matrix, so that it need not be calculated 
-## multiple times.
+## This file contains two functions that work together to store
+## the value of the inverse of a matrix, so that it need not be 
+## calculated multiple times.
 
 ## makeCacheMatrix creates a list that contains a function to  
 ## 1. set the value of a matrix
